@@ -14,6 +14,6 @@ public class Client {
                 .build();
 
         //Below line will be executed only if age is > 18 and email is not null
-        System.out.println("Student object created:- "+s);
+        System.out.println("Prototype.Student object created:- "+s);
     }
 }

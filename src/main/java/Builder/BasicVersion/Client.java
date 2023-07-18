@@ -13,6 +13,6 @@ public class Client {
         sb.setPsp(85.5);
 
         Student s = new Student(sb);
-        System.out.println("Student object created:-"+s);
+        System.out.println("Prototype.Student object created:-"+s);
     }
 }
